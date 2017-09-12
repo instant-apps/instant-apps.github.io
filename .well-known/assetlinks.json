@@ -2,19 +2,18 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
+    "package_name": "com.jbvincey.instantappssample",
+    "sha256_cert_fingerprints":
+    ["A9:29:9D:E3:1C:7B:47:12:F8:AC:94:35:E4:22:47:7F:EF:77:28:E7:EA:28:12:DC:E9:E4:BC:54:77:3A:FC:77"]
+  }
+},
+  {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
     "package_name": "com.tangchris.samples.apps.topeka",
     "sha256_cert_fingerprints":
     ["CF:79:1C:66:25:C7:C2:1C:BC:D4:6D:83:A5:B2:EB:13:68:69:80:E3:D6:FC:17:97:3A:72:1A:7A:19:AC:8D:A7"]
   }
-},
-{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.jbvincey.instantappssample",
-    "sha256_cert_fingerprints":
-    ["9A:7A:A2:B1:9C:F3:11:99:11:AE:D9:5F:BB:5E:56:1C:5D:C7:0C:CD:38:FE:D4:64:CB:1F:DE:3E:AF:CC:93:B9"]
-  }
-}
-]
+}]
 
